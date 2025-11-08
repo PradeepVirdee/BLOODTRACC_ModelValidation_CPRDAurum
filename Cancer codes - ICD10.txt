@@ -1,0 +1,13 @@
+icd10	term
+C180	Malignant neoplasm of cecum
+C181	Malignant neoplasm of appendix
+C182	Malignant neoplasm of ascending colon
+C183	Malignant neoplasm of hepatic flexure
+C184	Malignant neoplasm of transverse colon
+C185	Malignant neoplasm of splenic flexure
+C186	Malignant neoplasm of descending colon
+C187	Malignant neoplasm of sigmoid colon
+C188	Malignant neoplasm of overlapping sites of colon
+C189	Malignant neoplasm of colon, unspecified
+C190	Malignant neoplasm of rectosigmoid junction
+C200	Malignant neoplasm of rectum
